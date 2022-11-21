@@ -11,4 +11,4 @@ We do not ask for any sensitive data we just use your GuildID and UserID.
 [Discord Server](https://discord.gg/az3s9zmfUh)
 
 ## 😉Try out our other bots too
-(Interstellar Bot]()
+[Interstellar Bot](https://discord.com/api/oauth2/authorize?client_id=1040314859868393613&permissions=1513962695871&scope=bot%20applications.commands)
