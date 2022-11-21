@@ -5,7 +5,7 @@ A simple discord chat bot.
 Here are the ToS.
 
 ## What data we use?
-We do not ask for any sensitive data we just use your GuildID and UserID.
+We do not ask for any sensitive data we just use your `GuildID` and `UserID`.
 
 ## Support Server
 [Discord Server](https://discord.gg/az3s9zmfUh)
