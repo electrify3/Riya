@@ -7,6 +7,7 @@ A simple discord chat bot.
 3. We are not responsible if Bot misbehaves since it is only the reflection of responses she received.
 4. Riya is a Bot made for entertainment purpose only so avoid falling in love for her.
 5. Users must never misuse any bug of our Bot.
+6. Violation of any of the ToS may lead to permanent ban from bot.
 
 ## What data we use?
 We do not ask for any sensitive data we just use your `GuildID` and `UserID`.
